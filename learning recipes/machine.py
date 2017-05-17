@@ -26,3 +26,4 @@ print(accuracy_score(Y_test, predictions))
 
 
 # replacing the comment line 11 and 12 for 14 and 15.
+# we get a different accuracy
